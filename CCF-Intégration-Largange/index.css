@@ -1,12 +1,12 @@
 /*import de la police*/
 
 
-.epilogue-<uniquifier> {
+/*.epilogue-<uniquifier> {
 	font-family: "Epilogue", sans-serif;
 	font-optical-sizing: auto;
 	font-weight: <weight>;
 	font-style: normal;
-}
+}*/
 
 
 /*-------------------*/
@@ -96,6 +96,10 @@ a{
 	padding-bottom: 10px;
 }
 
+#button{
+	border: 3px solid black;
+}
+
 .mobile{
 	display: none;
 }
@@ -143,6 +147,8 @@ img{
 
 h1{
 	font-size: 3em;
+	margin: 0;
+	
 }
 
 main p{
